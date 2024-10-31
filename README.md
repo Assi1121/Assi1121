@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Justin Balanquit!
 
-<!--
-**Assi1121/Assi1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a IT student at Nueva Ecija University Of Science And Technology. I love coding and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: python
+- 📫 Contact: justinbalanquit09@gmail.com
+
+## 🛠️ Skills
+
+- **Languages:** javascript , c++ , java
+- **Tools:**  Git, VS Code , Codeblocks
+
+
+Thanks for visiting my profile! 😊
